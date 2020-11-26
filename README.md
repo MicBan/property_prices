@@ -28,7 +28,7 @@ There is a 1 notebook available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/).
+The main findings of the code can be found at the post available [here](https://medium.com/@banach.michal/house-prices-are-high-but-they-will-grow-as-always-really-adeda936dfde).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
